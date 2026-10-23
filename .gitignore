@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Android generated files (keep gradle wrapper, ignore build cache)
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.user
